@@ -12,6 +12,13 @@
 - Added a currency system: buy and sell items from other players; money required for waystones usage.
 - Rebalanced AI of mobs for improved predictability.
 - Added more food items.
+- Added ore creepers, which explode into minerals.
+- The XP cost of anvils has been balanced.
+- Bows with infinity no longer need one arrow in the player's inventory.
+- Beds no longer explode.
+- Added dummies to test out gear on.
+- Added cosmetic armor.
+- Added more villager and illager types.
 
 **New Features**
 - Added lightweight shaders for a more medieval atmosphere.
@@ -21,7 +28,9 @@
 - Added an advancement tracking system.
 - Added new minigames:
   - Fishing (inspired by Stardew Valley)
-  - Enchanting items (via Quark Oddities)
+  - Enchanting items
+- Added a system to quickly compare items.
+- Visual improvements on crafting tables and anvils.
 
 **User Interface & Controls**
 - Improved keybinds! The "Reset Keys" button now resets to proper defaults.
@@ -32,9 +41,6 @@
 **Mod Updates**
 - Updated most mods to their latest versions. **Do not manually update any mods unless explicitly stated!**
 - Optimized and expanded the resource pack.
-
-**New Additions**
-- Added a painting mod (Joy of Painting).
   
 **Removed Content**
 - **Enchantments Removed:**
@@ -49,3 +55,8 @@
   - Strength
   - Weakness
   - Resistance
+- Removed the Physics mod (3D particles).
+- Removed some unobtainable blocks and redundant items/entities (e.g., multiple mods adding crabs).
+- Removed "End's Delight" due to useless food buffs.
+- Removed a few features from the "Quark" mod.
+- Removed extra weapons and effects from "Simply Swords".
