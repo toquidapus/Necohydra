@@ -25,6 +25,8 @@
 - New music added (all royalty-free!).
 - New 3rd person camera.
 - New shields with parrying mechanics.
+- On death, players now have 30 seconds to be revived by another player!
+- If you ever get stuck, you can kill your character via the "Surrender" button in the pause menu.
 - Added an advancement tracking system.
 - Added new minigames:
   - Fishing (inspired by Stardew Valley)
