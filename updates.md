@@ -1,5 +1,18 @@
 # Changelog
 
+## [3.2.0] 11/19/24
+
+### Mod Updates
+- Updated a small handful of mods.*
+- Backported *Mine and Slash* from v5.9.12 to v5.8.3, as it caused issues when playing on servers.
+- Backported  *Additional Placements* from v2.1.0 to v1.8.0, as it caused stairs in newly generated worlds to be rotated incorrectly.
+
+### Config Changes
+- Fixed the positioning of buttons for *Inventory Profiles Next* in missed GUIs.
+- Added support for additional missed plants in the shaders config.
+
+-# *Chat Heads, Connectivity, Deeper and Darker, First-Person Model, Simple Voice Chat, Skin Layers 3D, Sophisticated Backpacks, Sophisticated Core, Sophisticated Storage
+
 ## [3.1.0] - 11/13/24
 
 ### General Adjustments & Fixes
