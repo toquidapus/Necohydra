@@ -11,7 +11,7 @@
 - Fixed the positioning of buttons for *Inventory Profiles Next* in missed GUIs.
 - Added support for additional missed plants in the shaders config.
 
--# *Chat Heads, Connectivity, Deeper and Darker, First-Person Model, Simple Voice Chat, Skin Layers 3D, Sophisticated Backpacks, Sophisticated Core, Sophisticated Storage
+<sub><sup>Chat Heads, Connectivity, Deeper and Darker, First-Person Model, Simple Voice Chat, Skin Layers 3D, Sophisticated Backpacks, Sophisticated Core, Sophisticated Storage</sup></sub>
 
 ## [3.1.0] - 11/13/24
 
