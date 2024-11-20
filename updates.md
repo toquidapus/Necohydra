@@ -3,15 +3,16 @@
 ## [3.2.0] 11/19/24
 
 ### Mod Updates
-- Updated a small handful of mods.*
+- Updated a small handful of mods. †
 - Backported *Mine and Slash* from v5.9.12 to v5.8.3, as it caused issues when playing on servers.
 - Backported  *Additional Placements* from v2.1.0 to v1.8.0, as it caused stairs in newly generated worlds to be rotated incorrectly.
+- Added 40+ custom tips that appear on menus such as loading or pause screens.
 
 ### Config Changes
 - Fixed the positioning of buttons for *Inventory Profiles Next* in missed GUIs.
 - Added support for additional missed plants in the shaders config.
 
-<sub><sup>*Chat Heads, Connectivity, Deeper and Darker, First-Person Model, Simple Voice Chat, Skin Layers 3D, Sophisticated Backpacks, Sophisticated Core, Sophisticated Storage</sup></sub>
+† Chat Heads, Connectivity, Deeper and Darker, First-Person Model, Simple Voice Chat, Skin Layers 3D, Sophisticated Backpacks, Sophisticated Core, Sophisticated Storage
 
 ## [3.1.0] - 11/13/24
 
@@ -100,8 +101,8 @@
   - Strength
   - Weakness
   - Resistance
-- Removed the Physics mod (3D particles).
+- Removed the *Physics* mod (3D particles).
 - Removed some unobtainable blocks and redundant items/entities (e.g., multiple mods adding crabs).
-- Removed "End's Delight" due to useless food buffs.
-- Removed a few features from the "Quark" mod.
-- Removed extra weapons and effects from "Simply Swords".
+- Removed *End's Delight* due to useless food buffs.
+- Removed a few features from *Quark* mod.
+- Removed extra weapons and effects from *Simply Swords.*
