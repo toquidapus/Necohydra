@@ -6,11 +6,14 @@
 - Updated a small handful of mods. †
 - Backported *Mine and Slash* from v5.9.12 to v5.8.3, as it caused issues when playing on servers.
 - Backported  *Additional Placements* from v2.1.0 to v1.8.0, as it caused stairs in newly generated worlds to be rotated incorrectly.
-- Added 40+ custom tips that appear on menus such as loading or pause screens.
 
 ### Config Changes
 - Fixed the positioning of buttons for *Inventory Profiles Next* in missed GUIs.
 - Added support for additional missed plants in the shaders config.
+
+### Cosmetic & UI Improvements
+- Added 40+ custom tips that appear on menus such as loading or pause screens.
+- Changed some of Minecraft's language files to add immersion!
 
 † Chat Heads, Connectivity, Deeper and Darker, First-Person Model, Simple Voice Chat, Skin Layers 3D, Sophisticated Backpacks, Sophisticated Core, Sophisticated Storage
 
