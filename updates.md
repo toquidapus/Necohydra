@@ -1,6 +1,6 @@
 # [ SERVER IP CHANGE ]
 Attention all Panjerians!
-**The IP of our server has changed!!**
+**The  IP  of  our  server  has  changed!!**
 I have done some things on my end that will now make the server run better (less ping)!
 
 ## New IP: necohyd.ra3.us
