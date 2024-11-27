@@ -3,7 +3,7 @@ Attention all Panjerians!
 The IP of our server has **changed!**
 I have done some things on my end that will now result in less ping!
 
-## New IP: necohyd.ra3.us
+## New IP: §enecohyd.ra3.us
 
 # Changelog
 
