@@ -1,4 +1,4 @@
-# §d[ SERVER IP CHANGE ]§r
+# §d|| §dSERVER §dIP §dCHANGE §d||
 Attention all Panjerians!
 The IP of our server has **changed!**
 I have done some things on my end that will now result in less ping!
