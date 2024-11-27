@@ -7,7 +7,7 @@ I have done some things on my end that will now result in less ping!
 
 # Changelog
 
-## [3.2.0] 11/19/24
+## §6[3.2.0] 11/19/24
 
 ### Mod Updates
 - Updated a small handful of mods. †
@@ -24,7 +24,7 @@ I have done some things on my end that will now result in less ping!
 
 † Chat Heads, Connectivity, Deeper and Darker, First-Person Model, Simple Voice Chat, Skin Layers 3D, Sophisticated Backpacks, Sophisticated Core, Sophisticated Storage
 
-## [3.1.0] - 11/13/24
+## §6[3.1.0] - 11/13/24
 
 ### General Adjustments & Fixes
 - Fixed unidentified enchantments not being able to be identified at an enchanting table. This was caused by the custom enchanting mechanics added by *Quark: Oddities*. Disabled the enchantment module of *Iron's RPG Tweaks* to preserve functionality.
@@ -54,7 +54,7 @@ I have done some things on my end that will now result in less ping!
 - Made the minimum cost for traveling by waystone 1 iron coin.
 
 
-## [3.0.0] - 10/8/24
+## §6[3.0.0] - 10/8/24
 
 ### Performance Enhancements
 - HEAVY performance boosts! Mods are now configured to work together more efficiently.
