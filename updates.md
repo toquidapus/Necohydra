@@ -5,7 +5,6 @@ I have done some things on my end that will now result in less ping!
 
 ## New IP: necohyd.ra3.us
 
-
 # Changelog
 
 ## [3.2.0] 11/19/24
