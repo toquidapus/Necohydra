@@ -28,7 +28,7 @@
 - Added a warning tooltip when changing the GUI’s scale to something other than 3x.
 - Polished language files (e.g., the chat prompt to set up *Simple Voice Chat*, fixing grammar across mods, etc.) and improved several textures.
 - Removed *Potato Shaders* and replaced them with *Complimentary Shaders*. Added compatibility with all modded ores and plants.
-- Added a link to the [modpack’s GitHub page](https://github.com/toquidapus/Necohydra) to the main menu.
+- Added a link to the modpack’s GitHub page to the main menu.
 
 ### Bug Fixes & Enhancements
 - Fixed the hunger bar textures when you have the hunger effect.
