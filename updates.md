@@ -117,9 +117,8 @@ I have done some things on my end that will now result in less ping!
 - Abilities of *ParCool* are no longer usable in *Mine and Slash* dungeons.
 - Fire no longer spreads, but still ticks.
 - Coins have been added to the cost of *Mine and Slash* recipes.
-- 
+- The Quickdraw spell no longer grants the player a stack of arrows.
 ### Bug Fixes & Consistency 
-- Fireworks shot from crossbows now deal damage.
 - Thrown tridents now deal damage.
 - Fixed a *Mine and Slash* bug where "mmorpg:invisible_item" items and "Omens" could be picked up.
 - Removed the sonorous staff from *Deeper Darker.*
