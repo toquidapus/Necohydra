@@ -48,6 +48,8 @@ I have done some things on my end that will now result in less ping!
 - Made it more obvious that screenshots are copied to the clipboard in screenshot text.
 - Villagers, Guard Villagers, Wandering Traders / Bakers, and Citizens now have healthbars that look similar to one of a player.
   - This also includes their zombified variants.
+- Players now have special visual effects on death.
+- Mining blocks now have different visuals.
 - Updated the amount of rows that *JEI* displays.
 - Textures and item names in *Lightman's Currency* and related mods have been updated to be more medieval.
 - Changed how the player's coin balance from *Lightman's Currency* appears ( ex: 2n5d8e3g7i4c -> $2,583.74 )
@@ -122,7 +124,6 @@ I have done some things on my end that will now result in less ping!
 - Blacklisted additional items and entities from *Carry On.*
 - Updated keybinds that should not be changed on the keybinds list to display as [UNUSED].
 - Macaw's wall lanterns have been removed, as *Amendments* has the same functionality but with the same lanterns.
-- Disabled *Quark's* beacon redirection, as *CERBON's Better Beacons* adds similar functionality.
 - Blacklisted the Dragon Egg from the *Trash Slot* mod.
 - Removed all copper buttons from *Infinity Buttons,* as *Friends and Foes* has equivalent, more functional counterparts.
 - Removed iron and gold buttons from *Quark,* as *Infinity Buttons* has equivalent, more functional counterparts.
