@@ -46,7 +46,7 @@ I have done some things on my end that will now result in less ping!
 - Blacklisted various entities from appearing within *Jade.*
 - Fixed *Loot Journal's* HUD being too high up.
 - Made it more obvious that screenshots are copied to the clipboard in screenshot text.
-- Villagers, Guard Villagers, Wandering Traders / Bakers, and Citizens now have healthbars that look similar to one of a player.
+- Villagers, Guard Villagers, Wandering Traders / Bakers, Trader Goblins, and Citizens now have healthbars that look similar to one of a player.
   - This also includes their zombified variants.
 - Players now have special visual effects on death.
 - Mining blocks now have different visuals.
