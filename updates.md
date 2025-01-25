@@ -50,6 +50,8 @@ I have done some things on my end that will now result in less ping!
   - This also includes their zombified variants.
 - Players now have special visual effects on death.
 - Mining blocks now have different visuals.
+- Disabled *Quark's* "usage ticker" feature.
+- Added an arachnophobia resource pack. 
 - Updated the amount of rows that *JEI* displays.
 - Textures and item names in *Lightman's Currency* and related mods have been updated to be more medieval.
 - Changed how the player's coin balance from *Lightman's Currency* appears ( ex: 2n5d8e3g7i4c -> $2,583.74 )
