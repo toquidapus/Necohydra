@@ -120,7 +120,7 @@ I have done some things on my end that will now result in less ping!
 - The Quickdraw spell no longer grants the player a stack of arrows.
 ### Bug Fixes & Consistency 
 - Thrown tridents now deal damage.
-- Fixed a *Mine and Slash* bug where "mmorpg:invisible_item" items and "Omens" could be picked up.
+- Fixed a *Mine and Slash* bug where mmorpg:invisible_item items and Omens could be picked up.
 - Removed the sonorous staff from *Deeper Darker.*
 - Blacklisted additional items and entities from *Carry On.*
 - Updated keybinds that should not be changed on the keybinds list to display as [UNUSED].
