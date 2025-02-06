@@ -7,7 +7,7 @@ I have done some things on my end that will now result in less ping!
 
 # Changelog
 
-## §6[3.3.0] §7 - §eComing §eSoon!
+## §6[3.3.0] §7 - §eComing §e< §eMarch §e1st!
 
 ### Gameplay
 - Advancements have been replaced with a large customized quest line with *FTB Quests!*
