@@ -195,7 +195,9 @@
 - Readded vanilla Minecraft’s accessibility onboarding screen.
 - 
 ### §4Introduced Bugs
-- The durability of curios is no longer visible. For an unknown reason, *Inventory HUD+* no longer detects the *Curios* mod.
+- The positioning of curios elements with *InventoryHUD+* is no longer possible in-game. For an unknown reason, it no longer detects the *Curios* mod.
+- Soul vulture textures are buggy, due to the "soul_vulture_glow" texture. I have been unable to get any soul vulture textures to work properly.
+
 Finally, the credits of the game have also been modified to give credit to all active Panjerians prior to v3.3.0, and to all mod and resource pack creators! §aThank §ayou §aall §aso §amuch §afor §ayour §acontinuous §asupport! :green_heart:
 
 §3Note: §7All §7language §7file §7related §7changes §7are §7in §7English §7- §7US §7(en_us) §7only.
