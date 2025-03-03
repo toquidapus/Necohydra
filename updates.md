@@ -1,18 +1,9 @@
-# §d|| §dSERVER §dIP §dCHANGE §d||
-Attention all Panjerians!
-The IP of our server has **changed!**
-I have done some things on my end that will now result in less ping!
-
-## New IP: §enecohyd.ra3.us
-
 # Changelog
 
-## §6[3.3.0] §7 - §eComing §e< §eMarch §e1st!
+## §6[3.3.0] §7- §73/1/25
 
 ### Gameplay
-- Advancements have been replaced with a large customized quest line with *FTB Quests!*
-  - Due to this, *Advancement Plaques* has been removed.
-  - Due to this, *What Are They Up To* has also been updated to display the quests button on the pause menu, instead of advancements.
+- Added a weapon mastery system with *FTB Quests.* This adds 498 quests!
 - Added the mod *MineColonies.* Build your own town, and reclaim Panjeria by rebuilding it from the ground up!
   - §7(§5EXPERIMENTAL. §7Please §7report §7any §7bugs §7/ §7inconsistencies §7you §7may §7find §7on §7Necohydra's §7Github §7issues §7page!)
 - Added the mod *WATERFrAMES.* This allows for videos to be played in game!
@@ -25,12 +16,18 @@ I have done some things on my end that will now result in less ping!
 - Added extra bows with the mod *Iron Bows,* and gave them smoother animations.
 - Enabled the "Enhanced Ladders" feature on *Quark:* right clicking a ladder with another one will place it, allowing you to drop ladders downwards.
 - When the player's soul lingers §7(when §7the §7player §7needs §7to §7be §7revived §7from §7the §7*Hardcore §7Survival* §7mod), there is now a button that allows them to call for help.
+- Added the mod *Dropped Buffs.* Small chunks of health, absorption, haste, or speed now have a small chance to drop when entities are slain.
+- Added extra bows and crossbows with the mod *Iron Bows.*
+- Added the datapack *True Ending* to make fighting the Ender Dragon more intense.
+- Increased the maximum amount of saveable *Mine and Slash* characters from 7 to 8.
+- Reimplemented several *YUNG's Better...* mods, similar to past Necohydra versions. (Performance issues are now fixed!!)
 
 ### Visual Improvements
 - Updated the icon of the modpack.
 - Improved visuals on the main menu of the game.
-- Fixed all HUD to display properly on a basic 1080p display.
+- Fixed all HUD to display properly on a basic 1080p display at 2x scaling.
 - For all impacted screens, forced GUI scales have been removed.
+- Added a built in LUT map to give the modpack a more medieval theme! Fabulous mode must be enabled in the game's graphics settings for this to work.
 - Made *Loot Beams* compatible with *Mine and Slash.* (No more missing out on rarer items!)
 - Removed the mod *Clear Despawn,* as *Interactic* makes its added visuals not display.
 - A brief red flash now shows when the player takes damage.
@@ -80,10 +77,26 @@ I have done some things on my end that will now result in less ping!
   - Due to this, *Illager Invasion's* magic fire is now green.
 - Added back buttons on *Mine and Slash's* GUI screens.
 - Updated the end poem for lore consistency.
+- The heartbeat effect that appears when the player has low health has been modified.
+- Hid unneeded *FTB* buttons from the inventory.
+- Fixed the description for the Lightweight enchantment.
+- Removed the mod *First Person Model,* due to mod incompatibilities. </3
+- Modified the visuals of *Mine Menu.*
+- Players can now change the icon of newly created Domains.
+- Domains will now have the option for randomly generated names on creation. There are 42,403,600 possible combinations!
+- Loot beams no longer only appear on items that are on the ground §7(this §7was §7done §7with §7items §7floating §7in §7water §7in §7mind).
+- Music no longer plays when the player's soul fades away.
+- *Create's* Contraption speed HUD is now properly visible.
+- Added the mod *Wakes.* Water now has improved visual effects, with waves and splashes!
+- Disabled *Quark's* attribute tooltips, as they are misleading regarding *Mine and Slash* stats.
+- Renamed the "Minecraft with Workbench" item to "Minecart with Crafting Table."
+- Jewels have been renamed to Emblems, to prevent confusion with Gems.
+- Added the mod "*Highlight.*" Selection outlines of blocks are now more consistent!
 
 ### Multiplayer
 - Renamed the default server to Panjeria, and updated its IP.
 - Added the mod *e4mc.* Players can now easily play multiplayer with other players without the need of hosting a server!
+- Added an easier method toggleable PVP per player §7(off §7by §7default). This can be accessed by holding [E] and selecting "PVP Settings."
 
 ### Performance
 - Added a warning that displays if less than 8192 MB of RAM is allocated to the modpack.
@@ -92,18 +105,21 @@ I have done some things on my end that will now result in less ping!
 - Removed the mod *Global Gamerules,* and put its equivalent data in a datapack to save storage.
 - Blacklisted several phrases from being printed in the game's logs in order to prevent excessive disk space usage.
 - Added the mod *Structure Essentials.*
+- Fixed several issues regarding shader crashes by updating *Iris & Oculus Flywheel Compat.*
 
 ### Balancing
+- The level of mobs is now synced to nearby players once again, rather than the distance to spawn.
+- Movement related ablities of *ParCool* are no longer usable in *Mine and Slash* dungeons (Breakfalling and Flipping is still possible!) (While it isn't from *Parcool,* dodge rolling is still possible as well.)
 - Players now drop 10% of the coins in their wallet on death.
 - Players now lose 10% of their essence §7(experience) on death. Players also now spawn in with 5 starting levels.
-- (Finally) disabled pickaxe zombies. 
+- (Finally) disabled pickaxe zombies.
+- Disabled the ability for mobs to use Fishing Rods on players.
 - The range of all skeleton variants have been decreased.
 - Mobs can no longer detect players through walls as well.
 - Mobs with the blindness effect now have their pathfinding range reduced by 75%.
 - Bosses now regain health if a player dies nearby.
 - *Anti Mob Farm* now affects *all* dropped loot, instead of *Mine and Slash* loot only.
-- Removed skelewag skulls, as they had an extreme attack speed and were unbalanced.
-  - §7(If §7anyone §7knows §7how §7to §7increase §7its §7cooldown, §7please §7create §7an §7issue §7on §7Necohydra’s §7Github §7page §7discussing §7it! §7<3)
+- Removed Skelewag Skulls.
 - Witches can no longer throw potions of weakness. They also throw normal potions of harming I, instead of harming II.
 - Disabled the ability for Witches to drink potions of instant health.
 - Increased the chance for Tumbleweeds to spawn.
@@ -113,13 +129,37 @@ I have done some things on my end that will now result in less ping!
 - Guard villagers will no longer attack wandering bakers.
 - Guard villagers now spawn with an increased variety of gear.
 - Doubled the amount of rewards given from *Bountiful,* and decreased the cost of bounties by 15%.
-- Added the mod *Dropped Buffs.* Small chunks of health or absorption now have a small chance to drop when entities are slain.
 - Abilities of *ParCool* are no longer usable in *Mine and Slash* dungeons.
 - Fire no longer spreads, but still ticks.
 - Coins have been added to the cost of *Mine and Slash* recipes.
+- Players now gain 12% more *Mine and Slash* player level experience.
+- The player now only gets less *Mine and Slash* player experience when defeating a mob that is 3 levels above / below them, rather than *any* difference in level.
+- When dying, the player will now lose half less *Mine and Slash* player experience compared to before.
+- The drop rate of gear when killing mobs has been increased by 20%.
+- Upon soul loss, the player will now receive 80% less experience debt compared to before.
 - The Quickdraw spell no longer grants the player a stack of arrows.
-### Bug Fixes & Consistency 
+- Increased the default max health from 80 to 400.
+- Increased the default max mana and dexterity from 50 to 80.
+- Players now start off with 80 magic shield.
+- Players now start off with a flat dodge rating of 2.
+- Armor points now give you some *Mine and Slash* armor.
+- Natural health regeneration has reduced heavily. To mirror the style of other games, magic shield will now be the player's main form of regenerating health.
+- Each point of strength now gives +20 health, instead of +5.
+- Each point of strength now gives +0.5 additional health regeneration per second, instead of +0.25.
+- Each point of intelligence now gives +2% magic shield, instead of +0.5%.
+- Magic shield now scales with your player level.
+- Severely increased the chance for *Mine and Slash* gems, runes, and currency related items to drop.
+- The level requirement of loot can now vary by two levels, instead of one.
+- Doubled the time downed players have for their souls to be recovered.
+- Every Ender Dragon kill will now drop an egg. §7(Added §7with §7servers §7in §7mind!)
+- Slightly increased the chance for Launching Creepers to spawn.
+- Reduced the explosion power of creepers by 0.5.
+
+### Bug Fixes & Consistency
+- Some removed enchantments have been reimplemented, and are now functional.
+- The Backstabbing enchantment has been removed.
 - Thrown tridents now deal damage.
+- Equipping charms in your offhand no longer crashes the game.
 - Fixed a *Mine and Slash* bug where mmorpg:invisible_item items and Omens could be picked up.
 - Removed the sonorous staff from *Deeper Darker.*
 - Blacklisted additional items and entities from *Carry On.*
@@ -137,8 +177,19 @@ I have done some things on my end that will now result in less ping!
 - Made all glass blocks / panes breakable from shooting arrows and fall damage, rather than *only* vanilla blocks. All regular ice and grass can now be broken from fall damage as well.
   - §7(Unfortunately, §7this §7behavior §7is §7not §7supported §7by §7guns.)
 - Removed the mod *Claim Shop for Lightman's Currency,* as its functionality was broken.
-- Updated a small handful of mods. †
-- 
+- Repositioned the player's paper doll to the bottom right corner of the screen §7(in §7honor §7of §7earlier §7Necohydra §7versions!)
+- Removed *Better Tridents,* as some of its features conflicted with *Progressive Bosses.*
+- Fixed several inconsistent food eating animations.
+- Disabled *Quark's* "Elytra Indicator," as it would cause all GUI to move to be shifted to the left.
+- Removed Brown Bears from *Naturalist* as *Alex's Mobs* has more functional, and highly similar Brown Bears. (Related crafting recipes that used bear fur from *Naturalist* now use bear fur from *Alex's Mobs.*)
+- Changed the "Player Reporting" button to say "Player List" instead.
+- Disabled *Quark's* Greener Grass feature.
+- Disabled the "Pole Climbing" feature of *ParCool,* as players can inconsistently climb the corners of connected fences. Rope items have replaced this feature.
+- Only villagers, zombie villagers, and citizens can equip MIMI instruments. (This is not enabled on Wandering Traders, as the way this feature is implemented is buggy on them.) (This is not enabled on Wandering Bakers, as they always are visually holding a barrel.)
+- Disabled *Quark's* beacon redirection, as *CERBON's Better Beacons* adds similar functionality.
+- You can now mine blocks with weapons by *default.* You can press [F4] to toggle this!
+- Updated a handful of mods. †
+  
 ### Accessibility
 - Added controller functionality via Steam's Big Picture mode! There is now a button that shows how to set this up next to the "Keyboard Settings" button in the game's settings.
 - Readded vanilla Minecraft’s accessibility onboarding screen.
