@@ -1,5 +1,35 @@
 # Changelog
 
+## §6[3.3.1] §7- §75/10/25
+
+# Changelog
+
+## [3.3.1] - 5/10/25
+
+### Visual Improvements
+- The *Blur* mod no longer has its visuals display when the Build Tool from *MineColonies* is in use.
+- The player can no longer hear themselves with *Simple Voice Chat* in echoey rooms with the *Sound Physics* mod.
+  - This behavior can be reverted by going to *Sound Physics* Config > Client > Hear Self: ON.
+
+### Bug Fixes & Consistency
+- The initial keybinds that come with Necohydra now properly work, with no issues!
+- Fixed our Discord invite link on the title screen, and the CurseForge page.
+- Updated the CurseForge button on the title screen to have proper punctuation.
+- The low RAM allocation warning no longer appears when the player has the exact amount of suggested RAM allocated.
+- For most launchers, Necohydra will now automatically ship with 8192MB of RAM automatically allocated.
+- Fixed the gender mod and cosmetic menu, and disabled breast physics from *Wildfire's Gender Mod* PROPERLY this time. (Yes, you read that correctly.)
+- Creepers no longer explode upon being slain.
+- Back buttons within *Mine and Slash's* GUI now work properly. This unfortunately is not possible with the Stats menu, so the back button here has been removed.
+- Added a back button to *Mine and Slash's* Ascendancy, Prophecy, and Map pages, and implemented Necohydra's custom mouse cursor on each as well.
+- Increased the size of chat from 60% to 90%.
+- Increased the width of chat from 222px to 252px.
+- Updated *Mine and Slash's* favor textures to properly match its rarity.
+- Changed the video loading icon in *WATERMeDIA* to fit the style of Minecraft more.
+- Blacklisted bullets from appearing on *Jade.*
+- *Jade* now displays if a block is unbreakable.
+- Removed the mod *Shoot Glass,* as its behavior would also delete thrown Tridents. Unfortunately, disabling this deletion in the mod's config would make projectiles float midair, so it has been removed altogether.
+- The mod *Better Farmers Combat* has been removed, as it was accidentally left over as a disabled mod in v3.3.0. Whoops!
+
 ## §6[3.3.0] §7- §73/1/25
 
 ### Gameplay
