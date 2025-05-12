@@ -2,10 +2,6 @@
 
 ## §6[3.3.1] §7- §75/10/25
 
-# Changelog
-
-## [3.3.1] - 5/10/25
-
 ### Visual Improvements
 - The *Blur* mod no longer has its visuals display when the Build Tool from *MineColonies* is in use.
 - The player can no longer hear themselves with *Simple Voice Chat* in echoey rooms with the *Sound Physics* mod.
