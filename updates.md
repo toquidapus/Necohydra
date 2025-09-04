@@ -1,5 +1,76 @@
 # Changelog
 
+## §6[3.4.0] §7- §79/2/25
+
+### Gameplay
+- Added the mod *Better Durability Reforged*. Items can no longer fully break, but once at minimum durability, they are disabled. (Bug: You must reequip armor after repairing it for their bonuses to take effect.)
+- Necohydra now implements *You Shall Not Spawn!* to disable Creepers from spawning. This is due to a *Mine and Slash* bug where Creepers down players in one hit. There are still several alternatives to obtaining gunpowder, and many other tweaks were tested to prevent this change. All Creepers from *Creeper Overhaul* have been removed aswell. Don't worry, Ore Creepers will remain!
+- Rather than dealing damage, Ore Creepers now have the Blindness affect, and will affect players with it if hit.
+- Ore Creepers no longer explode into ore. Killing them still drops ore, and instead, the player must kill them before it explodes to gain its loot. Due to this, Ore Creepers now drop severely more loot when killed!
+- Removed the mod *Airdropped Loot Mobs* in place of Ore Creepers.
+- Imbuing has been updated to support all LVL >I enchantments.
+- Removed Ancient Tomes from *Quark*, as *Illager Invasion's* Imbuing Table and related items have a more in depth and balanced alternative.
+- *Mine and Slash* Stones can now be combined to craft rarer ones.
+- Removed several keybinds from *Inventory Profiles Next*. (No more random "Created new "Default" profile..." messages!)
+- Changed the keybind to access *Create's* Toolboxes from [Left Control] to [Tab].
+- Disabled Auto Refilling of items with *Inventory Profiles Next / IPN* by default. It can now be toggled by pressing [F7].
+- Features from *Parcool!* can now be toggled by pressing [F6].
+- *Better Lost Candle* has been added to make *Illager Invasion's* Lost Candle item have dynamic lighting, and detect non-vanilla ores.
+- Readded Spawn Eggs in the creative inventory.
+- Special Horse Feed can now be crafted to permanently increase a horse's max speed / jump height.
+- Horses can no longer kick off their riders in fear of hostile mobs.
+- Updated 128 mods.
+
+### Visual Improvements
+- Added the resource pack *Wolf Variants* from Forest on Modrinth. The Wolf variants from newer Minecraft versions will now display!
+- Added the resource pack “Comforts Modernized” from pedro041506 on CurseForge / Modrinth. Items from the *Comforts* mod now match the style of Minecraft more.
+- Hid the horizontal scrollbar on the Changelog on the title screen. (Note: It unfortunately cannot be fully disabled.)
+- Updated the "Hub" icon for *Mine and Slash* while holding [E].
+- Changed Minecraft's "Leave Bed" text to more accurately say "Stop Sleeping" due to mods.
+- Restored Vanilla particles shown when throwing Bottles of Essence.
+- Updated the texture for horse inventories, and Custom Tacks.
+- Changed the texture of *Create's* Haunted Bell to have its "soul" be magenta.
+- Changed the texture of *Illager Invasion's* Imbuing Table, and Primal Essence to fit into the modpack more.
+- Increased the volume of MIMI by default from 5 > 10.
+- Disabled fog from *Particle Rain*.
+- Vanilla styled Boats have all been renamed and remodeled to Canoes to match *Small Ships*. Credit to DiegoxDios's "Boats and Canoes" model!
+- Added custom sound effects to Ore Creepers.
+- Blacklisted several entities from *Jade*.
+- Removed the mod *Better Fog*, as it messed with visuals given by the Blindness and Darkness effects.
+- Removed the "Executed # Commands..." text from FTBQuests. (Note: This was done via a language file change, please keep note of this if you use custom functions!)
+- Removed *Fast Workbench's* Crafting Table tooltip to match with modded Crafting Tables.
+- Increased the size of player pings with [Middle Mouse] from 150% > 200%.
+- Ore Creepers now have improved visuals on death that simulate Necohydra's block breaking visuals.
+- Sound effects of Ore Creepers have been changed to differentiate them from regular Creepers.
+- Modified screen effects when being affected by potions to be shorter, and less obtrusive.
+
+### Balancing
+- Increased the loot multiplier of higher rarities.
+- Replaced the Soulsteal and Patrol Bane enchantments from Beacons with Poison Resistance and Nourishment.
+- All Horses, Donkeys, and Mules now have significantly increased health, and 20% damage reduction.
+- The rarities of Ore Creepers have been modified to match their ore rarity.
+- Skeleton and Zombie Horses no longer have loot to prevent farming items when set as a personal horse. (Issue: Essence still drops.)
+
+### Bug Fixes & Consistency
+- (Excluding Zombie and Skeleton Horses) All vanilla Horses / Mules / Donkeys will now automatically be replaced with modded variants.
+- Removed Tin Cans from *Aquaculture,* and replaced fishing loot tables that give them with the ones from *Crabber's Delight*.
+- For consistency, Vanilla styled modded Boats have been removed.
+- Removed all Horse Armor, and instead implemented horse tacks to be used instead as they go in the same slot.
+- *Simply More* now uses a Forge file instead of a Fabric file.
+- Tweaked *MineColonies* research for *Mine and Slash* compatibility, and to use more items from Necohydra.
+- Combined the Technology and Unlockbles University trees in *MineColonies*.
+- To match newer Minecraft snapshots, and to add convenience for Necohydra's mods regarding horses, Saddles can now be crafted.
+- Removed the Blackstone Furnace from *Quark*, as *Nether's Delight* has a duplicate alternative.
+- Fixed *Create's* Toolbox inventory sorting buttons.
+- Slightly modified fishing loot tables.
+- Fixed an incorrect tutorial regarding Stamina.
+- Disabled the Ore Scenting and Total Recall enchantments from *Domestication Innovation*.
+- Features of *Parcool!* have been updated to not work in newly added *Mine and Slash* dimensions.
+- Updated *Waystones* to not allow traveling in and out of the new Harvest dimension.
+- Fully removed missed Crab items from *Friends and Foes*.
+- Hid Horse stats from *Jade*, as they are not accurate after the stats of the Horse are modified.
+- Fixed and repositioned inventory sorting buttons in a handful of GUIs.
+
 ## §6[3.3.1] §7- §75/10/25
 
 ### Visual Improvements
