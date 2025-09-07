@@ -38,7 +38,7 @@
 - Removed the buttons on Domain creation that allows changing the type of world generation (ex. Superflat) and customization of world generation, as they do not work.
 - Disabled a bugged Curio slot.
 - For consistency, the tooltip when hovering over the "Cosmetic Armor" button in the player's inventory has been removed.
-- Disabled Firefly particles from *Subtle Effects*, as *Subtle Effects* has Firefly entities.
+- Disabled Firefly particles from *Subtle Effects*, as *Naturalist* has Firefly entities.
 
 
 ## §6[3.4.0] §7- §79/2/25
