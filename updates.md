@@ -1,5 +1,46 @@
 # Changelog
 
+## §6[3.4.1] §7- §79/6/25
+
+### Gameplay
+- Mining with weapons is now allowed by default.
+- [G] now quick consumes *Mine and Slash*!potions, rather than Quick Turning with *Parcool!*
+- Pressing [Middle Mouse] on water no longer grants you a boat with Minecraft's Pick Block behavior.
+- Disabled the keybind for *Deeper and Darker's* Sculk Transmitter by default.
+- The ability to open other players Backpacks has been disabled completely.
+- Skeletons now flee players from a smaller range, and are slower when fleeing.
+- Removed the Soulsteal effect.
+- Removed the Reach effect from *Friends & Foes*.
+- Updated *ETF*.
+### Visual Improvements
+- A handful of quests have been updated to have images in their descriptions.
+- Reverted the "Hub" icon to access the *Mine and Slash* hub whilst holding [E].
+- Made the "Update Available!" text on the titlescreen flash to increase visibility.
+### Balancing
+- Horses, Mules, Donkeys, Camels, Llamas, and Trader Llamas no longer drop Leather.
+- Camels and Llamas now have the same rarity, increased health, and 20% damage reduction like Horses, Mules, and Donkeys.
+- *Minecolonies* town Visitors now have the same rarity, increased health, and 50% damage reduction like Citizens.
+- Entities that spawn with Backpacks no longer get health / potion effect buffs.
+- Backpack upgrades now only automatically work if the Backpack is equipped.
+- Reduced gear drop rates from 18 > 14.
+- Reduced currency drop rates from 3 > 2.
+- Decreased the mob and item level variance from 3 > 2.
+- Favor is now capped at 1000 (mythic).
+- Gear now gains +5% physical damage per sharpness level.
+### Bug Fixes & Consistency
+- Disabled Mipmap levels by default, to prevent an unloaded texture glitch. (It is unknown if this actually fixes the bug! Please report if this bug remains.)
+- Weapon mastery now works properly!
+- Fixed *FTBQuests* commands not working (PVP Toggle, *Mine and Slash's* mastery button).
+- Removed the Shadow Hands enchantment, as it would crash clients and corrupt chunks at random.
+- Disabled the Fen, Fungal Fen, Marsh, Frozen Pine Taiga, Pine Slopes, Pine Taiga, Icy Heights, Mountains, Redwoods, Sparse Redwoods, Rainforest, Sparse Rainforest, Rocky Reef, Bayou, Tropics, Tropical River, and Willow Forest biomes from *Regions Unexplored*, as other mods already have Dead, Pine, Redwood, and Willow Wood.
+- Disabled Pine, Dead Pine, Dead, Redwood, Palm, and Willow Wood / Hedges from *Regions Unexplored* in *Every Compat*.
+- Players are no longer required to choose an icon upon Domain creation, as it can be bypassed anyways.
+- Removed the buttons on Domain creation that allows changing the type of world generation (ex. Superflat) and customization of world generation, as they do not work.
+- Disabled a bugged Curio slot.
+- For consistency, the tooltip when hovering over the "Cosmetic Armor" button in the player's inventory has been removed.
+- Disabled Firefly particles from *Subtle Effects*, as *Subtle Effects* has Firefly entities.
+
+
 ## §6[3.4.0] §7- §79/2/25
 
 ### Gameplay
