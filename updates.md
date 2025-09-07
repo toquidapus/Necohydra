@@ -4,7 +4,7 @@
 
 ### Gameplay
 - Mining with weapons is now allowed by default.
-- [G] now quick consumes *Mine and Slash*!potions, rather than Quick Turning with *Parcool!*
+- [G] now quick consumes *Mine and Slash* potions, rather than Quick Turning with *Parcool!*
 - Pressing [Middle Mouse] on water no longer grants you a boat with Minecraft's Pick Block behavior.
 - Disabled the keybind for *Deeper and Darker's* Sculk Transmitter by default.
 - The ability to open other players Backpacks has been disabled completely.
