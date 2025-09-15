@@ -40,7 +40,7 @@
 - For consistency, the tooltip when hovering over the "Cosmetic Armor" button in the player's inventory has been removed.
 - Disabled Firefly particles from *Subtle Effects*, as *Naturalist* has Firefly entities.
 
-§3Note: §7All §7language §7file §7related §7changes §7are §7in §7English §7- §7US §7(en_us) §7only.
+§3Note: §7All §7language §7file §7related §7changes §7are §7in §7English §7- §7US §7(en-us) §7only.
 
 ## §6[3.4.0] §7- §79/2/25
 
@@ -339,7 +339,7 @@
 
 Finally, the credits of the game have also been modified to give credit to all active Panjerians prior to v3.3.0, and to all mod and resource pack creators! §aThank §ayou §aall §aso §amuch §afor §ayour §acontinuous §asupport! :green_heart:
 
-§3Note: §7All §7language §7file §7related §7changes §7are §7in §7English §7- §7US §7(en_us) §7only.
+§3Note: §7All §7language §7file §7related §7changes §7are §7in §7English §7- §7US §7(en-us) §7only.
 
 † ETF, EMF, Leawind, Dynamic FPS, Cherished Worlds, ImmediatelyFast, World Play Time, Skin Layers 3D, Sound Physics Remastered, Aquaculture, Amendments, Enhanced Celestials, Guard Villagers, Chat Heads, Etched, Item Borders, ModernFix, First-person Model, Entity Culling, Bad Wither No Cookie, Sophisticated Core, Sophisticated Storage, Sophisticated Backpacks, Curios API
 
