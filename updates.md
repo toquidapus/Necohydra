@@ -1,5 +1,25 @@
 # Changelog
 
+## §6[3.5.0] §7- §710/4/25
+
+### Gameplay
+- Added VR support with *Vivecraft*! The modpack will now be released in two forms: VR, and non-VR.
+- Disabled *Sophisticated Backpack's* "Switch Upgrade in the # Slot On/Off" keybinds.
+- Updated 12 mods.✝
+### Visual Improvements
+- Replaced Minecraft's "ON / OFF" text in several languages with a symbol.
+- Changed the game's default crosshair. (Does not apply in non-VR due to the *Dynamic Crosshair* mod.)
+### Balancing
+- Disabled minimap features in *Mine and Slash* related dimensions.
+### Bug Fixes & Consistency
+- Removed duplicate Crafting Tables.
+- Fixed freezing occurring when picking up items for the first time by updating the *Loot Journal* mod.
+- Changed the file path of the background texture for *FTB Quests*.
+- Added the custom cursor to the game’s audio configuration screens.
+
+- VR Bug: The HUD for the player's air level while underwater does not render. Be careful swimming!
+✝Chat Heads, Connectivity, Default Options, Lootr, Macaw's Windows, Ping Wheel, Simple Voice Chat, Simple Voice Chat, Sound Physics Remastered, Sophisticated Backpacks, Sophisticated Core, Sophisticated Storage
+
 ## §6[3.4.1] §7- §79/6/25
 
 ### Gameplay
