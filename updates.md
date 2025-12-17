@@ -2,6 +2,9 @@
 
 ## §6[3.5.0] §7- §710/4/25
 
+### §8Ignore §8this §8button! §8->
+§8i §8forgor §8to §8remove §8it §8</3
+
 ### Gameplay
 - Added VR support with *Vivecraft*! The modpack will now be released in two forms: VR, and non-VR.
 - Disabled *Sophisticated Backpack's* "Switch Upgrade in the # Slot On/Off" keybinds.
