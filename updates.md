@@ -1,6 +1,6 @@
 # Changelog
 
-## §6[Time to Sunset] §7- §79/18/26
+## §6[Time §6to §6Sunset] §7- §79/18/26
 
 §8Ignore §8this §8button! §8->
 - §8i §8forgor §8to §8remove §8it §8</3
